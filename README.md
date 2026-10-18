@@ -1,7 +1,7 @@
 # SmartStock AI — Frontend Web Application
 **AI-Powered Inventory Intelligence for Small Retailers**
 
-Built for our College Startup Hackathon by **Alex Morgan (Frontend Lead)** with future integration paths for **Dev (AI/Forecasting)**, **Kritika (Backend/DB)**, and **Dhruv (Cloud/CyberSec)**.
+Built for our College Startup Hackathon by **Lucky Nain (Frontend Lead)** with future integration paths for **Dev (AI/Forecasting)**, **Kritika (Backend/DB)**, and **Dhruv (Cloud/CyberSec)**.
 
 ---
 

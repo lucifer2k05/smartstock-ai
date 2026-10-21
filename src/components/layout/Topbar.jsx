@@ -278,7 +278,7 @@ export function Topbar({ setMobileOpen }) {
               className="flex items-center gap-2 p-1 pl-2 pr-2.5 rounded-xl hover:bg-slate-100 transition-colors border border-transparent hover:border-slate-200 cursor-pointer"
             >
               <div className="w-8 h-8 rounded-full bg-gradient-to-tr from-slate-800 to-slate-700 text-teal-300 font-bold text-xs flex items-center justify-center shadow-xs">
-                AM
+                {settings.ownerName ? settings.ownerName.split(" ").map((n) => n[0]).join("").toUpperCase().slice(0, 2) : "T"}
               </div>
               <div className="hidden xl:block text-left">
                 <p className="text-xs font-semibold text-slate-900 leading-none">

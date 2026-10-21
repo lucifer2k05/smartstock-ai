@@ -13,7 +13,7 @@ const STORAGE_KEYS = {
   PRODUCTS: "smartstock_products_v1",
   SALES: "smartstock_sales_v1",
   NOTIFICATIONS: "smartstock_notifications_v1",
-  SETTINGS: "smartstock_settings_v1",
+  SETTINGS: "smartstock_settings_v2",
 };
 
 export function InventoryProvider({ children }) {

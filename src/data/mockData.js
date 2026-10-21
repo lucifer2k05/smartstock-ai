@@ -1,5 +1,5 @@
 // Initial realistic mock dataset for SmartStock AI
-// Designed to simulate an active retail grocery & essentials shop ("Alex's Daily Fresh Mart")
+// Designed to simulate an active retail grocery & essentials shop ("Tarun's Daily Fresh Mart")
 // Clearly marked as simulated mock data for hackathon demonstration.
 
 export const INITIAL_PRODUCTS = [
@@ -477,9 +477,9 @@ export const INITIAL_NOTIFICATIONS = [
 ];
 
 export const INITIAL_SETTINGS = {
-  shopName: "Alex's Daily Fresh Mart",
-  ownerName: "Alex Morgan",
-  email: "alex.morgan@dailyfreshmart.local",
+  shopName: "Tarun's Daily Fresh Mart",
+  ownerName: "Tarun",
+  email: "tarun@dailyfreshmart.local",
   phone: "+91 98765 43210",
   address: "Shop #14, Green Glen Layout, Bellandur, Bengaluru",
   currency: "₹",
@@ -490,7 +490,7 @@ export const INITIAL_SETTINGS = {
   compactView: false,
   defaultHorizon: "14d",
   team: {
-    frontend: "Alex Morgan (BTech CS)",
+    frontend: "Tarun (BTech CS)",
     aiBackend: "Dev (Python/Flask & Forecasting)",
     dbBackend: "Kritika (Postgres & API Support)",
     cloudSec: "Dhruv (Cloud Deployment & CyberSec)",
